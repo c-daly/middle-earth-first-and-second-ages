@@ -1,6 +1,6 @@
 # Middle-earth in the First and Second Ages
 
-AI tools helped research, write, edit, illustrate, and typeset this fan-made sourcebook. The author directed every part of the book, choosing what the chapters cover, how they are ordered, and where the history, adventures, and guidance for gamemasters belong. The author chose which account of Galadriel’s life to follow and how to present Tolkien’s competing accounts of Orc origins while leaving Orcish spirit and free will to each gamemaster. That direction extended to individual figures in the art, including which way Tulkas faces before Manwë and the view over Eärendil’s shoulder as Ancalagon falls.
+AI tools helped research, write, edit, illustrate, and typeset this fan-made sourcebook. The author directed that work throughout the book. [About this edition](#about-this-edition)
 
 *A campaign sourcebook*
 
@@ -8,11 +8,19 @@ AI tools helped research, write, edit, illustrate, and typeset this fan-made sou
 
 ## About this edition
 
+AI tools helped with the research, drafting, editing, illustrations, and typesetting. The author was involved in every part of the book, from choosing its chapters and their order to deciding what a reader should see over Eärendil’s shoulder. A few examples give a sense of how closely the author directed the work throughout.
+
+The author chose to follow a Galadriel who was innocent of the Kinslaying, went into exile with her kin, and believed the Doom still lay on her after Beleriand fell. For Orcs, the author chose to present Tolkien’s competing accounts of their origins and leave the nature of an Orc’s spirit and freedom to each gamemaster.
+
+The same attention went into the pictures. The author placed Tulkas over the bound Melkor, facing Manwë and Varda, with Nessa seated beside Tulkas’s empty chair. For the fall of Ancalagon, the author chose the view down past Eärendil’s shoulder and Silmaril, with one wing of the tumbling dragon still high above the three peaks. The author hopes readers will recognize a fellow Tolkien fan in choices like these.
+
 Narvi and Celebrimbor left their names on the West-gate of Khazad-dûm. To a traveler in the late Third Age they belong to the history of a lost friendship. To a smith in Second Age Eregion they might be the names of two people expected at the forge tomorrow. The earlier Ages give players a chance to know such people while their work is still in hand.
 
 ## Using this book
 
-Part One opens with the history of each Age. The later chapters follow its peoples, their arts, and the dangers they face. The adventures begin with [The Bell at the Crossing](#25-the-bell-at-the-crossing). For preparing and running a session, turn to [Guidance for the gamemaster](#guidance-for-the-gamemaster).
+Part One opens with the history of each Age. The later chapters follow its peoples, their arts, and the dangers they face. The adventures begin with [The Bell at the Crossing](#28-the-bell-at-the-crossing). For preparing and running a session, turn to [Guidance for the gamemaster](#guidance-for-the-gamemaster).
+
+The trees trace selected lines of kinship. The homelands, callings, magical workings, and encounters likewise illustrate a wider range of possibilities. A river pilot is one life a player might imagine in Harad. Each subject has one full treatment. For instance, the history records when the Nine appeared, while [The dominion of Morgoth and Sauron](#the-dominion-of-morgoth-and-sauron) describes how their bearers lost the power to refuse.
 
 **On sources and campaign history.** Tolkien returned to these stories over decades. Two accounts can give the same person different origins, motives, or journeys. This book chooses a continuous history where a meeting or an allegiance depends on it. The register at the back gives the source, the choice, and the reason. To follow a variant yourself, begin with the named chapter, then read Christopher Tolkien’s introduction and notes to the corresponding texts in *Unfinished Tales* or *The History of Middle-earth*. For dates in the Second Age, begin with the headnote and entries of Appendix B to *The Lord of the Rings*.
 
@@ -45,31 +53,35 @@ Part One opens with the history of each Age. The later chapters follow its peopl
     - [15. Origins and heroic stature](#15-origins-and-heroic-stature)
       - [The peoples of Middle-earth](#the-peoples-of-middle-earth)
       - [Nearness to the Eldar and the Maiar](#nearness-to-the-eldar-and-the-maiar)
-    - [16. Professions in Middle-earth](#16-professions-in-middle-earth)
+    - [16. Men](#16-men)
+    - [17. Elves](#17-elves)
+      - [The sundering and the Wood-elves](#the-sundering-and-the-wood-elves)
+    - [18. Dwarves](#18-dwarves)
+    - [19. Professions in Middle-earth](#19-professions-in-middle-earth)
   - [Powers and arts](#powers-and-arts)
-    - [17. The Seen and the Unseen](#17-the-seen-and-the-unseen)
-    - [18. Embodiment, wounds, and defeat](#18-embodiment-wounds-and-defeat)
+    - [20. The Seen and the Unseen](#20-the-seen-and-the-unseen)
+    - [21. Embodiment, wounds, and defeat](#21-embodiment-wounds-and-defeat)
       - [Death and the Gift of Men](#death-and-the-gift-of-men)
-    - [19. The kinds of magic in Middle-earth](#19-the-kinds-of-magic-in-middle-earth)
-    - [20. Traditions of learned magic](#20-traditions-of-learned-magic)
-    - [21. Great works, the Rings, and the Marring of Arda](#21-great-works-the-rings-and-the-marring-of-arda)
+    - [22. The kinds of magic in Middle-earth](#22-the-kinds-of-magic-in-middle-earth)
+    - [23. Traditions of learned magic](#23-traditions-of-learned-magic)
+    - [24. Great works, the Rings, and the Marring of Arda](#24-great-works-the-rings-and-the-marring-of-arda)
       - [The dominion of Morgoth and Sauron](#the-dominion-of-morgoth-and-sauron)
-    - [22. Traditions and mysteries](#22-traditions-and-mysteries)
-    - [23. What the peoples of the two Ages could make](#23-what-the-peoples-of-the-two-ages-could-make)
+    - [25. Traditions and mysteries](#25-traditions-and-mysteries)
+    - [26. What the peoples of the two Ages could make](#26-what-the-peoples-of-the-two-ages-could-make)
   - [Adversaries](#adversaries)
-    - [24. The forces of darkness](#24-the-forces-of-darkness)
+    - [27. The forces of darkness](#27-the-forces-of-darkness)
   - [Adventure ideas](#adventure-ideas)
-    - [25. The Bell at the Crossing](#25-the-bell-at-the-crossing)
-    - [26. A Gift at the Watergate](#26-a-gift-at-the-watergate)
+    - [28. The Bell at the Crossing](#28-the-bell-at-the-crossing)
+    - [29. A Gift at the Watergate](#29-a-gift-at-the-watergate)
     - [Short adventures](#short-adventures)
 - [Part Two · Rules for play](#part-two--rules-for-play)
   - [Guidance for the gamemaster](#guidance-for-the-gamemaster)
-    - [27. Running a heroic age](#27-running-a-heroic-age)
+    - [30. Running a heroic age](#30-running-a-heroic-age)
       - [Living memory](#living-memory)
       - [One traveler against a greater power](#one-traveler-against-a-greater-power)
       - [A place and its keepers](#a-place-and-its-keepers)
       - [Freedom under a master](#freedom-under-a-master)
-    - [28. Witnesses, danger, and consequence](#28-witnesses-danger-and-consequence)
+    - [31. Witnesses, danger, and consequence](#31-witnesses-danger-and-consequence)
       - [Preparing a discovery](#preparing-a-discovery)
       - [Foresight, oaths, and gifts](#foresight-oaths-and-gifts)
       - [Ruling on a work of power](#ruling-on-a-work-of-power)
@@ -131,7 +143,7 @@ The watch began with a victory. At Dagor Aglareb, Orcs struck through the Pass o
 
 The watch had depth. Fingolfin held Hithlum behind the Ered Wethrin. From Dorthonion the sons of Finarfin watched the plain. In the east, Maedhros held Himring above the passes, while Maglor’s riders covered open country that rock walls could never close. Orcs still found ways around the watch. Once they came down the coast and tried to enter Hithlum from the west. A family living far behind the northern camps could still wake to a warning from the sea. [The Silmarillion, “Of the Return of the Noldor”](https://martijn.coppoolse.com/books/part/1220)
 
-Elsewhere in Beleriand a lifetime could pass in peace. A courier leaving Menegroth for the Falas began among beech woods where a king’s leave opened the ways. At Eglarest, leave to sail counted for little if the tide had turned. An Elven guest who had seen the Girdle raised might still have to sit on the quay until a young pilot judged the harbor mouth safe. Both were among the Sindar. [The Silmarillion, “Of the Sindar”](https://martijn.coppoolse.com/books/part/1217)
+The watch in the north gave the inland roads and the coastal havens centuries of relative peace. A courier could travel from Menegroth to Eglarest in the service of two Sindarin communities that had grown up under very different conditions. [Elves](#17-elves)
 
 During these years Galadriel and Celeborn married in Doriath. Menegroth was their home while the leaguer held. Galadriel learned from Melian, and her kin in other Noldorin realms could bring news into Thingol’s court. A mortal envoy who met the couple in these years might be remembered there generations later. [Unfinished Tales, “The History of Galadriel and Celeborn”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
@@ -145,7 +157,7 @@ The wars about Angband fill the annals kept in Beleriand. A different history su
 
 **The land later called Mordor.** A late note traces Orodruin and its eruptions to Melkor’s devastation during the long First Age. It gives neither the date the mountain rose nor a stronghold or forge that Morgoth kept there. In a Gondorian account, the Drúedain traveled from lands south of this region, turned north into Ithilien, and crossed Anduin. That tradition locates people on the southern and western approaches. The inhabitants of the basin around Núrnen in this period remain unnamed. [The Peoples of Middle-earth, “Last Writings,” note 14, excerpted in Other Minds no. 1, p. 13](https://www2.omzine.org/downloads/om-english/om-001-Other_Minds_Magazine_Issue_001_revision_20080203.pdf) · [Unfinished Tales, “The Drúedain”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
-Farther west along the southern approaches, the account preserved by the Drúedain’s neighbors follows people across Anduin into the vales of the White Mountains. It is a history of movement remembered in Gondor long afterwards. The names of early rulers of the basin beyond the mountains have not come down with it. [Unfinished Tales, “The Drúedain”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+The route those travelers took into the White Mountains is preserved in the [First Age gazetteer](#first-age-events-east-of-the-blue-mountains).
 
 ##### 6. The Battle of Sudden Flame
 
@@ -201,9 +213,7 @@ The survivors made new homes. Gil-galad, High King of the Noldor, ruled **Lindon
 
 Galadriel and Celeborn remained in Middle-earth after the war and lived for a time in Lindon south of the Lune. Galadriel believed the Doom of the Noldor still lay on her. Centuries later, when she refused the Ring that Frodo freely offered, that burden was lifted. [The Lord of the Rings, Appendix B, “The Second Age”](https://theallfreenovel.com/130/33/the_return_of_the_king.amp) · [Unfinished Tales, “The History of Galadriel and Celeborn,” including “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
-**The people of Greenwood.** East of the Misty Mountains the Silvan Elves already had their own speech and woodland life. In the tradition followed here, Oropher came from ruined Doriath with a small Sindarin company. They learned the local language and took names in Silvan fashion. Oropher became king. He fell in the War of the Last Alliance, and his son Thranduil brought the survivors home. Thranduil’s later halls recall Menegroth. The people who built and used them had a history in Greenwood long before his family arrived. [Unfinished Tales, “The History of Galadriel and Celeborn,” including “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
-
-Along the Anduin a household that had never seen the sea might now welcome a traveler who had lost a whole coastline. Oropher and the Sindar who came east carried memories of Thingol’s realm. In Greenwood the newcomers had to learn the names by which their hosts knew the streams and clearings. The long history of that encounter belongs to both peoples. [Unfinished Tales, “The History of Galadriel and Celeborn”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+**The people of Greenwood.** Oropher came east from ruined Doriath with a small Sindarin company and became king among the Silvan Elves. He fell in the War of the Last Alliance. His son Thranduil brought the survivors home. The halls Thranduil later made there recalled Menegroth. The kindred chart traces the people among whom they made their home. [The sundering and the Wood-elves](#the-sundering-and-the-wood-elves) · [*Unfinished Tales*, “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
 ##### 11. Eregion and the Rings of Power
 
@@ -213,7 +223,7 @@ An Elf approaching the West-gate from the holly woods saw trees and stars drawn 
 
 Annatar was **Sauron**, one of the Maiar and once Morgoth’s most trusted servant. With his teaching the smiths made Rings of Power. Celebrimbor made the Three Elven Rings himself. About the year **1600** of the Second Age, Sauron forged the One Ring in Mordor, his realm in the southeast. Through it he meant to govern the minds of those who wore the others. When he first put it on, the Elves perceived him in turn and took off their rings. Having failed by persuasion, Sauron came with an army. In **1697** Eregion fell, Celebrimbor was killed, and Elrond founded the refuge later called Rivendell. [“Of the Rings of Power”](https://martijn.coppoolse.com/books/part/1233) · [*The Lord of the Rings*, Appendix B](https://theallfreenovel.com/130/33/the_return_of_the_king.amp)
 
-The Three remained hidden. Seven Rings came to Dwarf-lords. Their hunger for treasure grew, though Sauron could never bend them fully to his will. Nine mortal Men gained power and long life, gradually faded from sight, and became the **Nazgûl**, the Ringwraiths bound to Sauron. A Númenórean fleet helped save Lindon. Farther east and south, many peoples still lived under Sauron’s rule. [“Of the Rings of Power”](https://martijn.coppoolse.com/books/part/1233) · [*The Lord of the Rings*, Appendix B](https://theallfreenovel.com/130/33/the_return_of_the_king.amp)
+The Three remained hidden. Seven Rings came to Dwarf-lords, and nine to mortal Men who in time became the Nazgûl. A Númenórean fleet helped save Lindon. Farther east and south, many peoples still lived under Sauron’s rule. [“Of the Rings of Power”](https://martijn.coppoolse.com/books/part/1233) · [Chapter 24 on the fate of the Ring-bearers](#the-dominion-of-morgoth-and-sauron)
 
 **The pass before the Dark Tower.** Shelob had taken shelter in the western mountains before Sauron settled in Mordor. She served herself. Her victims included Elves and Men, though their homes and the date of her arrival are unrecorded. About S.A. 1000 Sauron chose Mordor as his stronghold and began Barad-dûr. Orodruin supplied fire for sorcery and forging. About S.A. 1600 he completed the tower and made the One Ring. [The Two Towers, “Shelob’s Lair”](https://bookwise.io/j-r-r-tolkien/the-lord-of-the-rings-volume-2) · [The Lord of the Rings, Appendix B, “The Second Age”](https://theallfreenovel.com/130/33/the_return_of_the_king.amp) · [The Silmarillion, “Of the Rings of Power and the Third Age”](https://martijn.coppoolse.com/books/part/1233)
 
@@ -265,43 +275,17 @@ An Elf can teach for centuries and still feel the slow fading of her embodied li
 
 ##### The peoples of Middle-earth
 
-A mariner from Alqualondë and a marchwarden of Doriath can both claim Telerin kin. One grew up among the swan-ships in Aman. The other knows the ways through Melian’s Girdle. A family tree explains their kinship. It takes a history to explain why their lives are so different. The three trees below follow selected peoples through the Ages. Some branches mark a migration or an alliance. The account below identifies where those histories cross.
+Three chapters follow the peoples open to players in this edition. [Men](#16-men) traces mortal kinships and alliances, [Elves](#17-elves) follows the kindreds through their partings and reunions, and [Dwarves](#18-dwarves) follows households from halls they inherited to homes they had to make.
 
-**Elves.** The first three clans were already kin when Oromë invited them west. The **Eldar** undertook the Great Journey. The **Avari** declined it. In one reckoning Tolkien attributes to Noldorin historians, for every 74 of the Nelyar, the third clan, about 28 refused the summons. Of the 46 who set out as Teleri, 26 remained in Middle-earth as Sindar and Nandor. Only 20 crossed the Sea. The figures express proportions across a people already many generations old. [*The War of the Jewels*, “Quendi and Eldar,” section C, on the three clans](https://groups.google.com/g/rec.arts.books.tolkien/c/nHSSFIIMJE4)
+##### Nearness to the Eldar and the Maiar
 
-The tree follows the clans through the Great Journey. Beside each people it gives the old names used in Aman for those who saw the light of the Two Trees (**Calaquendi**) and those who never saw it (**Moriquendi**). The latter name takes in both the Avari and the **Úmanyar**, the Eldar whose journey ended in Middle-earth. [*The Silmarillion*, “Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf)
+In this campaign, closer kinship with the Eldar and the Maiar, life among them, and instruction from them tend to confer greater power. Each relationship confers something particular. Lúthien is Melian’s daughter and her voice can lay Morgoth asleep. Galadriel lived in the light of the Trees and learned from Melian in Doriath. Finrod taught Bëor’s people, and Bëor spent the rest of his life in his service. Those histories put different things within a character’s reach. A native gift, a learned art, or trusted access to a teacher whom a king might never meet can each change the outcome of an encounter. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) · [“Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224) · [*Unfinished Tales*, “The History of Galadriel and Celeborn”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
-```text
-Elves (Quendi)
-├─ Minyar
-│  └─ Vanyar · Eldar · Calaquendi
-├─ Tatyar
-│  ├─ Avari of this clan · Moriquendi
-│  └─ Noldor · Eldar · Calaquendi
-└─ Nelyar (Lindar)
-   ├─ Avari of this clan · Moriquendi
-   │  └─ western kin among the Wood-elves
-   └─ Teleri · Eldar
-      ├─ Falmari · Calaquendi
-      └─ Úmanyar · remained in Middle-earth
-         ├─ Nandor · Moriquendi
-         │  ├─ Green-elves of Ossiriand
-         │  └─ Nandorin kin of the Wood-elves
-         └─ Sindar · Moriquendi save Thingol
-            ├─ Falathrim of the havens
-            ├─ the people of Doriath
-            └─ the Grey-elves of Mithrim
-```
+An Elf returned from Aman may stand revealed in the Unseen before a wraith. A captain of the Dúnedain may have learned navigation from three generations of shipmasters and still be young enough to sail. Yet at Forochel a mortal elder knows the ice better than the king. Spiritual stature, inherited gifts, trained judgment, and local knowledge can each decide an encounter. For the fading of the Elves and the mortal span, see [Death and the Gift of Men in Chapter 21](#death-and-the-gift-of-men).
 
-Olwë’s Falmari reached Aman. Círdan’s Falathrim also loved the sea and built ships, yet they belonged to the Sindar. Within Doriath the Girdle sheltered a court and woodland communities that developed apart from the coastal havens. The Nandor had left the march farther east. Denethor led some of their people into Ossiriand. Others belonged to the woodland history from which the Silvan peoples emerged. When Oropher came to Greenwood, a small Sindarin company joined a much larger Silvan population. Thranduil inherited his father’s kingship among people whose forebears already knew the forest. [*The Silmarillion*, index entries for Falmari, Falathrim, Sindar, and Nandor](https://martijn.coppoolse.com/books/part/1237) · [*Unfinished Tales*, “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+#### 16. Men
 
-Thingol had seen the Trees as an ambassador before the march. He was one of the Calaquendi and king of the Sindar. His subjects in Doriath could know Melian personally without ever having seen the Trees themselves. Words also changed when the peoples met again. The Noldorin exiles generally ceased to count the Sindar among the Moriquendi in speech. When Caranthir calls Thingol a Dark Elf, his choice of words is an insult. [*The Silmarillion*, “Of Thingol and Melian”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf) · [Index of Names, “Dark Elves”](https://martijn.coppoolse.com/books/part/1237)
-
-**Where the Avari went.** Cuiviénen lay far to the east and somewhat north, on a bay of the inland Sea of Helcar. Some Avari were still living beside those waters when the Valar made the Sun and Moon. What became of that shore as the land and waters changed is uncertain. Other Avari had histories far from the lake. Small parties entered Beleriand from the south. Some of the first whom the Eldar met there claimed descent from the Tatyar. Bëor’s people also remembered learning words and music from Dark Elves east of the Blue Mountains. Their account leaves those teachers’ particular kindred unnamed. [*The Silmarillion*, “Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf) · [“Of the Sun and Moon”](https://martijn.coppoolse.com/books/part/1218) · [“Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224) · [*The War of the Jewels*, “Quendi and Eldar,” on Avari in Beleriand](https://forum.tolkiendil.com/thread-1173-post-25122.html)
-
-Tolkien records six forms of the name these Elves gave themselves. They are *kindi*, *cuind*, *hwenti*, *windan*, *kinn-lai* and *penni*, each preserving the ancient word behind *Quendi*. The last can be placed on a map. Wood-elves in the Vale of Anduin used *penni*, and these people welcomed refugees from Beleriand. In Eriador and along Anduin, western Avari of Lindarin descent, Nandor and Sindar came to share settlements. A Silvan household in the Second Age can trace its kin to both sides of the ancient parting. The six names leave the borders and later fortunes of communities farther east largely unknown. [*The War of the Jewels*, “Quendi and Eldar,” on the western Avari](https://forum.tolkiendil.com/thread-1173-post-25122.html) · [Tolkien’s note on the six names and the people of Anduin](https://historyofmiddleearth.weebly.com/home/war-of-the-jewels-quendi-and-eldar)
-
-**Men, the Edain, and the Dúnedain.** In Elvish lore *Atani* can embrace all humankind. In the histories of Beleriand its Sindarin form *Edain* usually identifies the mortal Elf-friends of three houses. The distinction matters. Bëor entered Finrod’s service. Hador received Dor-lómin from Fingolfin. Haleth’s people kept their own leaders in Brethil. Common Men elsewhere had no share in those grants or obligations simply by being human. They had their own rulers, trades, and traditions, including the many peoples of the East and South. [*The Silmarillion*, “Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224)
+In Elvish lore *Atani* can embrace all humankind. In the histories of Beleriand its Sindarin form *Edain* usually identifies the mortal Elf-friends of three houses. The distinction matters. Bëor entered Finrod’s service. Hador received Dor-lómin from Fingolfin. Haleth’s people kept their own leaders in Brethil. Common Men elsewhere had no share in those grants or obligations simply by being human. They had their own rulers, trades, and traditions, including the many peoples of the East and South. [*The Silmarillion*, “Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224)
 
 ```text
 Men (humankind)
@@ -327,7 +311,55 @@ The **Drúedain** lived as a distinct people among the Folk of Haleth. Their Elv
 
 The **Lossoth** of Forochel are a surviving people of the ancient Forodwaith. When Arvedui fled north in the Third Age, it was the Lossoth who could feed his company through the winter. Their chief knew what ice and wind might do to a ship in that bay. The king left against his advice. That encounter supplies a name, a place, and a body of northern knowledge. The extent of the ancestral Forodwaith’s settlements in either earlier Age remains unrecorded. [*The Lord of the Rings*, Appendix A, “The North-kingdom and the Dúnedain,” including the note on the Lossoth](https://rsd2-alert-durden-reading-room.weebly.com/uploads/6/7/1/6/6716949/03-the-return-of-the-king.pdf)
 
-**Dwarves.** Aulë fashioned the first Fathers of the Dwarves, and Eru gave them independent life. The seven kindreds trace their origins to those Fathers. Durin’s Folk are one of the seven. *Petty-dwarves* is a name for Dwarves descended from exiles of the eastern cities. It describes a history of dispossession within Dwarvenkind. Mîm and his sons kept a home at Amon Rûdh long after their people first came west. [*The Silmarillion*, “Of Aulë and Yavanna” and “Of Túrin Turambar”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf) · [*The Children of Húrin*, “Of Mîm the Dwarf”](https://www.ebookscape.com/middle-earth/the-children-of-hrin-j-r-r-tolkien/)
+A messenger from Brethil might bring a summons from an Elven lord back to Haleth’s people. She can answer for what she heard at his court. At home her own people decide how many can leave the forest to fight. A mainland pilot in the Second Age might know the same Númenórean captain who taught her grandmother to read a star. She can love him and still speak against giving his king the use of her harbour. For the quarrel over mortality that divides Númenor, see [Death and the Gift of Men in Chapter 21](#death-and-the-gift-of-men).
+
+#### 17. Elves
+
+A mariner of Alqualondë and a marchwarden of Doriath can both claim Telerin kin. One grew up among the swan-ships. The other learned the paths through Melian’s Girdle. In Greenwood a third Elf might count kin among families who parted before either haven or kingdom existed.
+
+##### The sundering and the Wood-elves
+
+The first three clans were already kin when Oromë invited them west. The **Eldar** undertook the Great Journey. The **Avari** declined it. In one reckoning Tolkien attributes to Noldorin historians, for every 74 of the Nelyar, the third clan, about 28 refused the summons. Of the 46 who set out as Teleri, 26 remained in Middle-earth as Sindar and Nandor. Only 20 crossed the Sea. The figures express proportions across a people already many generations old. [*The War of the Jewels*, “Quendi and Eldar,” section C, on the three clans](https://groups.google.com/g/rec.arts.books.tolkien/c/nHSSFIIMJE4)
+
+Read down for the partings of the Great Journey and follow the line at the right for the later meeting along Anduin. Beside each people it gives the old names used in Aman for those who saw the light of the Two Trees (**Calaquendi**) and those who never saw it (**Moriquendi**). The latter name takes in both the Avari and the **Úmanyar**, the Eldar whose journey ended in Middle-earth. [*The Silmarillion*, “Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf)
+
+```text
+Elves (Quendi)
+├─ Minyar
+│  └─ Vanyar · Eldar · Calaquendi
+├─ Tatyar
+│  ├─ Avari of this clan · Moriquendi
+│  └─ Noldor · Eldar · Calaquendi
+└─ Nelyar (Lindar)
+   ├─ Avari of this clan · Moriquendi
+   │  └─ Some western families ─────────────┐
+   └─ Teleri · Eldar                        │
+      ├─ Falmari · Calaquendi               │
+      └─ Úmanyar                            │
+         ├─ Sindar · Moriquendi¹ ─ some ────┤
+         │  ├─ Falathrim of the havens      │
+         │  ├─ People of Doriath            │
+         │  └─ Grey-elves of Mithrim        │
+         └─ Nandor · Moriquendi             │
+            ├─ Green-elves of Ossiriand     │
+            └─ Families along the Anduin ───┤
+                                            │
+    Wood-elves of the Vale of Anduin ←──────┘
+```
+
+¹ Thingol, king of the Sindar, had seen the Trees. The joining lines trace families who came to share a language and a home along Anduin. Each retained a history reaching back beyond that meeting.
+
+Olwë’s Falmari reached Aman. Círdan’s Falathrim also loved the sea and built ships, yet they belonged to the Sindar. Within Doriath the Girdle sheltered a court and woodland communities that developed apart from the coastal havens. The Nandor had left the march farther east. Denethor led some of their people into Ossiriand. Others belonged to the woodland history from which the Silvan peoples emerged. Oropher and his small Sindarin company learned the speech of the much larger Silvan people they joined. A Wood-elf guiding one of the newcomers home might have to ask what he calls the stream they just crossed. By the time his son Thranduil was king, Silvan names could be heard in the royal household itself. [*The Silmarillion*, index entries for Falmari, Falathrim, Sindar, and Nandor](https://martijn.coppoolse.com/books/part/1237) · [*Unfinished Tales*, “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+
+Thingol’s journey as an ambassador made the king of the Sindar one of the Calaquendi. His subjects in Doriath could know Melian personally without ever having seen the Trees themselves. Words also changed when the peoples met again. The Noldorin exiles generally ceased to count the Sindar among the Moriquendi in speech. When Caranthir calls Thingol a Dark Elf, his choice of words is an insult. [*The Silmarillion*, “Of Thingol and Melian”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf) · [Index of Names, “Dark Elves”](https://martijn.coppoolse.com/books/part/1237)
+
+**Where the Avari went.** Cuiviénen lay far to the east and somewhat north, on a bay of the inland Sea of Helcar. Some Avari were still living beside those waters when the Valar made the Sun and Moon. What became of that shore as the land and waters changed is uncertain. Other Avari had histories far from the lake. Small parties entered Beleriand from the south. Some of the first whom the Eldar met there claimed descent from the Tatyar. Bëor’s people also remembered learning words and music from Dark Elves east of the Blue Mountains. Their account leaves those teachers’ particular kindred unnamed. [*The Silmarillion*, “Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf) · [“Of the Sun and Moon”](https://martijn.coppoolse.com/books/part/1218) · [“Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224) · [*The War of the Jewels*, “Quendi and Eldar,” on Avari in Beleriand](https://forum.tolkiendil.com/thread-1173-post-25122.html)
+
+Tolkien records six forms of the name these Elves gave themselves. They are *kindi*, *cuind*, *hwenti*, *windan*, *kinn-lai* and *penni*, each preserving the ancient word behind *Quendi*. The last can be placed on a map. Wood-elves in the Vale of Anduin used *penni*, and these people welcomed refugees from Beleriand. In Eriador and along Anduin, western Avari of Lindarin descent, Nandor and Sindar came to share settlements. A Silvan household in the Second Age can trace its kin to both sides of the ancient parting. The six names leave the borders and later fortunes of communities farther east largely unknown. [*The War of the Jewels*, “Quendi and Eldar,” on the western Avari](https://forum.tolkiendil.com/thread-1173-post-25122.html) · [Tolkien’s note on the six names and the people of Anduin](https://historyofmiddleearth.weebly.com/home/war-of-the-jewels-quendi-and-eldar)
+
+#### 18. Dwarves
+
+Aulë fashioned the first Fathers of the Dwarves, and Eru gave them independent life. The seven kindreds trace their origins to those Fathers. Durin’s Folk are one of the seven. *Petty-dwarves* is a name for Dwarves descended from exiles of the eastern cities. It describes a history of dispossession within Dwarvenkind. Mîm and his sons kept a home at Amon Rûdh long after their people first came west. [*The Silmarillion*, “Of Aulë and Yavanna” and “Of Túrin Turambar”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf) · [*The Children of Húrin*, “Of Mîm the Dwarf”](https://www.ebookscape.com/middle-earth/the-children-of-hrin-j-r-r-tolkien/)
 
 ```text
 Dwarves (Khazâd)
@@ -337,15 +369,13 @@ Dwarves (Khazâd)
          └─ Mîm and his sons, Ibun and Khîm
 ```
 
-Only the line leading to Mîm is expanded here. The texts give Mîm a Dwarven ancestry without assigning his family to a named founding house. Orcish origins are treated separately under [Orcs, spirit, and free will](#orcs-spirit-and-free-will).
+Tolkien gives Mîm a Dwarven ancestry and leaves his founding house unnamed. Amon Rûdh is a family home when Túrin’s outlaws come there. Mîm knows where to gather food underground and can offer shelter well into winter. A Dwarf in a First Age company might have much the same authority as a host, with a household’s winter stores riding on the welcome she gives.
 
-##### Nearness to the Eldar and the Maiar
+In the Blue Mountains a Dwarf of Nogrod or Belegost could travel the road to Thingol’s halls on family business. After Beleriand fell, many Dwarves left those cities for Khazad-dûm. Appendix B places that migration about forty years into the Second Age. A player might be the first of her household born in the new halls. To her mother, the names on a salvaged doorpost still tell a visitor whose threshold he is crossing. To her cousins of Durin’s Folk, the names may need an introduction. [*The Silmarillion*, “Of the Sindar”](https://martijn.coppoolse.com/books/part/1217) · [*The Lord of the Rings*, Appendix B, “The Second Age”](https://arda.ir/wp-content/downloads/lord-of-the-rings/LOTR%204%20-%20Appendices%20And%20Index.pdf)
 
-In this campaign, closer kinship with the Eldar and the Maiar, life among them, and instruction from them tend to confer greater power. Each relationship confers something particular. Lúthien is Melian’s daughter and her voice can lay Morgoth asleep. Galadriel lived in the light of the Trees and learned from Melian in Doriath. Finrod taught Bëor’s people, and Bëor spent the rest of his life in his service. Those histories put different things within a character’s reach. A native gift, a learned art, or trusted access to a teacher whom a king might never meet can each change the outcome of an encounter. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) · [“Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224) · [*Unfinished Tales*, “The History of Galadriel and Celeborn”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+For the art of Nogrod at the forge, see [The smith’s song in Chapter 22](#the-smiths-song). For the hold the Seven could gain over a Dwarf-lord, see [The dominion of Morgoth and Sauron in Chapter 24](#the-dominion-of-morgoth-and-sauron).
 
-An Elf returned from Aman may stand revealed in the Unseen before a wraith. A captain of the Dúnedain may have learned navigation from three generations of shipmasters and still be young enough to sail. Yet at Forochel a mortal elder knows the ice better than the king. Spiritual stature, inherited gifts, trained judgment, and local knowledge can each decide an encounter. Elven fading over the life of the world has its own history.
-
-#### 16. Professions in Middle-earth
+#### 19. Professions in Middle-earth
 
 A ranger knows the paths by which a household can escape a raid. A scout or thief knows who holds the keys and when the watch changes. A soldier has comrades, a place in the muster, and someone entitled to give an order. A messenger who brings news of a raid may find all three at the same gate, each answerable to someone different.
 
@@ -353,7 +383,7 @@ Bards preserve testimony in song. Seers receive glimpses whose meaning the liste
 
 ### Powers and arts
 
-#### 17. The Seen and the Unseen
+#### 20. The Seen and the Unseen
 
 When Glorfindel comes upon three Riders, they give way. To a being that sees into the Unseen, an Elf who has dwelt in the Blessed Realm can be terrible. In an encounter with Galadriel, a Rider may break off pursuit or wait for companions. A witness sees the horse turn and the quarry gain ground. She must work out for herself what the Rider saw. In Eregion, even Galadriel has to test a stranger’s story against what she remembers of Valinor.
 
@@ -371,7 +401,7 @@ In the workshop, Galadriel asks Annatar who entrusted him with this work. Before
 
 For this campaign, Celebrimbor sees what he wants to see. In private he admits to Galadriel that she has grounds for doubt. He agrees to send an inquiry to Lindon. When the apprentice asks whether to lay out Annatar’s tools in the morning, he says yes. To send his guest away on suspicion might cost him the one teacher who can help him equal Fëanor. One more day at the forge seems a small thing to ask.
 
-#### 18. Embodiment, wounds, and defeat
+#### 21. Embodiment, wounds, and defeat
 
 Long before Fingolfin rides to Angband, Melkor goes to meet Ungoliant in Avathar. There he takes again the tall, terrible shape in which he once ruled Utumno. He keeps it ever after. In his later writings Tolkien connects Morgoth’s bondage to that body with the power he has spent mastering the very substance of Arda. When Fingolfin drives his sword into Morgoth’s foot, he gives the victor a limp that will last for the rest of his reign. [*The Silmarillion*, “Of the Darkening of Valinor”](https://martijn.coppoolse.com/books/part/1215) · [“Of the Ruin of Beleriand and the Fall of Fingolfin”](https://martijn.coppoolse.com/books/paragraph/55775) · [*Morgoth’s Ring*, “Notes on motives in the Silmarillion”](https://fair-use.org/j-r-r-tolkien/notes-on-motives-in-the-silmarillion/)
 
@@ -385,9 +415,9 @@ An Elf can be slain. The spirit of a dead Elf remains bound to Arda and is summo
 
 **A king and his heir.** Elros accepted mortality, and his successors inherited lives long enough for them to watch generations pass elsewhere. Some early rulers laid down their lives of their own will. Tar-Atanamir clung to life into failing age. Later Sauron gave Ar-Pharazôn’s fear a target, persuading him that the Valar kept deathlessness for themselves. The Faithful resisted that teaching. Even among those who accepted the Gift, grief endured. Long afterward, as Aragorn freely gave up his life, Arwen understood at last why the Númenóreans had found death so bitter. [*The Silmarillion*, “Akallabêth”](https://martijn.coppoolse.com/books/part/1232) · [*Unfinished Tales*, “The Line of Elros”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/) · [*The Lord of the Rings*, Appendix A, “The Tale of Aragorn and Arwen”](https://rsd2-alert-durden-reading-room.weebly.com/uploads/6/7/1/6/6716949/03-the-return-of-the-king.pdf)
 
-**Fifty years and five thousand.** One possibility for play is that a life of fifty years can hold a richer experience of a particular summer than five thousand years can give an immortal witness. A mortal shipwright has one season to sail with her mother before the older woman’s hands fail. She closes the yard and goes. Her Elven partner had expected to make the voyage when the next hull was finished. Centuries later he still remembers which tools she put down on the bench. The mortal felt the cost of delay. The Elf has had centuries to feel the cost of that one delay. Each has an experience the other can scarcely enter. This is a campaign interpretation of how time can feel. Tolkien gives no measure of the experience a soul can hold.
+**Fifty years and five thousand.** One possibility for play is that a life of fifty years can hold a richer experience of a particular summer than five thousand years can give an immortal witness. A mortal shipwright has one season to sail with her mother before the older woman’s hands fail. She closes the yard and goes. Her Elven partner had expected to make the voyage when the next hull was finished. Centuries later he still remembers which tools she put down on the bench. The mortal felt the cost of delay. The Elf has had centuries to feel the cost of that one delay. Each has an experience the other can scarcely enter. This is one campaign interpretation of how a mortal and an Elf might experience the same summer.
 
-#### 19. The kinds of magic in Middle-earth
+#### 22. The kinds of magic in Middle-earth
 
 At her Mirror, Galadriel is puzzled that Sam uses the same word for what he is about to see and for the deceits of the Enemy. The distinction matters to the person looking into the water. Galadriel invites Sam to look, warns him of the limits of what he may learn, and leaves the choice with him. Sauron shows Gorlim the image of his missing wife because he knows what Gorlim will give to see her again. Two people see something extraordinary. Only one understands the terms on which he is seeing it. (*The Fellowship of the Ring*, “The Mirror of Galadriel”; [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226).)
 
@@ -420,8 +450,8 @@ Gandalf in the fir trees is a clear example of someone deliberately using visibl
 |---|---|---|
 | Gandalf and the wolves west of Moria | Gandalf throws a burning branch into the air and speaks. Fire runs through the treetops; Legolas’s last arrow catches fire in flight. | Gandalf has a firebrand to hand. An archer already fighting beside him shares in the effect. (*The Fellowship of the Ring*, II.4, “A Journey in the Dark.”) |
 | Finrod disguises Beren’s company | The company takes Orcish gear. Finrod sings, and their faces and shapes take on the likeness of Orcs. | Finrod can extend the disguise to his companions. They still have to behave convincingly when challenged. [*The Lay of Leithian*, Canto VIII](https://tolkienleithian.blogspot.com/2013/03/canto-viii.html) |
-| Lúthien at Sauron’s stronghold | The gates fall and the pits holding the prisoners lie open. | Huan has overcome Sauron and Lúthien has secured his surrender of the tower. Only then does she undo the spell binding its stones. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) |
-| Elrond and Gandalf at the Ford of Bruinen | A flood sweeps the Riders away. Frodo sees white riders on white horses in the advancing water. | Elrond commands the river of his valley. Gandalf gives some of the waves their visible forms. [*The Fellowship of the Ring*, II.1, “Many Meetings”](https://gwydionmadawc.com/57-about-tolkien/000-lord-of-the-rings-chapter-by-chapter/201-many-meetings/) |
+| Lúthien at Sauron’s stronghold | The gates fall and the pits holding the prisoners lie open. | Sauron has yielded mastery of the tower to Lúthien. [Tol-in-Gaurhoth in the guide to great structures](#the-great-structures) |
+| Elrond and Gandalf at the Ford of Bruinen | White horses and riders take shape in the flood. | Two wills are at work in the water. [Elrond, Vilya, and the white riders](#elrond-vilya-and-the-white-riders) |
 | Sauron in the Last Alliance | Isildur records that the heat of Sauron’s hand killed Gil-galad. | This Second Age witness describes a property of Sauron’s embodied hand. He gives no casting procedure. (*The Fellowship of the Ring*, II.2, “The Council of Elrond.”) |
 
 The Wargs immediately know who is burning them. The guards who encounter Finrod’s company see the intended result and have to work out that any magic occurred. The reader can be certain about both workings while the people inside those scenes know quite different things.
@@ -468,7 +498,7 @@ On Amon Ethir, Niënor resists until Glaurung forces her to meet his eyes. This 
 
 **Petition and worship.** On the Meneltarma the ruler of Númenor offers prayer to Eru. Before Mandos, Lúthien sings on Beren’s behalf. The one she addresses hears her and answers of his own will. [Unfinished Tales, “The History of Galadriel and Celeborn,” including “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
-**The maker’s investment.** Fëanor’s work on the Silmarils and Sauron’s work on the One both raise the question of how much of oneself can pass into a work. They give different answers about what endures and what can be lost. Chapter 21 takes up that cost. [“Of the Flight of the Noldor”](https://martijn.coppoolse.com/books/part/1216/of-the-flight-of-the-noldor); [Letter 131](https://ldysinger.com/%40texts2/1938_jrr_tolkien/06_on_LOTR_letter_131.htm)
+**The maker’s investment.** Fëanor’s work on the Silmarils and Sauron’s work on the One both raise the question of how much of oneself can pass into a work. They give different answers about what endures and what can be lost. Chapter 24 takes up that cost. [“Of the Flight of the Noldor”](https://martijn.coppoolse.com/books/part/1216/of-the-flight-of-the-noldor); [Letter 131](https://ldysinger.com/%40texts2/1938_jrr_tolkien/06_on_LOTR_letter_131.htm)
 
 ##### The smith’s song
 
@@ -476,13 +506,13 @@ At Bag End, the Dwarves sing about spells their forebears worked as their hammer
 
 A smith who hears a flaw in the metal can change the next hammer blow. A smith who lays silence in a hinge gives the door a virtue that can outlive its maker. An apprentice may learn to hear the first difference years before anyone entrusts her with the second task.
 
-#### 20. Traditions of learned magic
+#### 23. Traditions of learned magic
 
 In a Dwarven workshop a master can teach the song used to hear a flaw. A bard teaches a lay of remembrance to someone entrusted with the names of the dead. Along a dangerous road, a ranger can show an apprentice where a boundary ward ends. A healer learns the patient’s ordinary voice well enough to hear it return after fever. In each tradition an apprentice learns through a task that matters to somebody.
 
 A seer may see a broken oar under a red sail. The seer may ask the harbor pilots about the sail, send a warning, or wait and watch. An astrologer has another resource altogether, a record against which a second observer can compare the sky.
 
-#### 21. Great works, the Rings, and the Marring of Arda
+#### 24. Great works, the Rings, and the Marring of Arda
 
 Fëanor could make many wonders, but he could make the Silmarils only once. Sauron bound so much of his strength into the One Ring that its destruction undid his power. Morgoth dispersed his power through the matter of Arda itself. Each work endures at a different cost to its maker. [The Silmarillion, “Of the Flight of the Noldor”](https://martijn.coppoolse.com/books/part/1216) · [The Silmarillion, “Of the Rings of Power and the Third Age”](https://martijn.coppoolse.com/books/part/1233)
 
@@ -500,11 +530,11 @@ Húrin gives the measure of what a Man could refuse. Morgoth bound him and force
 
 **Orcs and a master’s presence.** Some eastern Orcs mocked Sauron while he wore a fair form. At the fall of the One, hosts long directed by him broke when his will withdrew. An Orc under a captain’s eye, one alone at a crossing, and one caught in the collapse of Sauron’s command need not act alike. This book leaves the point at which compulsion can extinguish an individual Orc’s freedom to each GM. [*The Nature of Middle-earth*, “Note on the Delay of Gil-galad and the Númenóreans”](https://tolkiengateway.net/wiki/Eastern_Orcs) · [*The Return of the King*, “The Field of Cormallen”](https://rsd2-alert-durden-reading-room.weebly.com/uploads/6/7/1/6/6716949/03-the-return-of-the-king.pdf) · [Freedom under a master](#freedom-under-a-master)
 
-#### 22. Traditions and mysteries
+#### 25. Traditions and mysteries
 
 An orchard can bear witness to its gardener long after her name is lost. On the eastern bank of the Anduin, the earliest histories preserve a few such traces.
 
-- **Hobbits beside the Anduin.** Their oldest tales remember the upper Vales of Anduin. They give no secure First or Second Age address. [The Fellowship of the Ring, Prologue, “Concerning Hobbits”](https://www.mrsmuellersworld.com/uploads/1/3/0/5/13054185/tolkien_-_fellowship_of_the_ring.pdf)
+- **Hobbits beside the Anduin.** This campaign leaves the date of their settlement open. [Men, including the early evidence for hobbits](#16-men)
 - **The Entwives’ gardens.** Treebeard remembers crossing the river to visit the gardens. In Letter 144 Tolkien suspected that the Entwives perished when Sauron burned their lands in the War of the Last Alliance. The trees their neighbors learned to grow might outlast both the gardens and the gardeners. [The Two Towers, “Treebeard”; Letter 144](https://cs.au.dk/~clemens/au15572/tolkien/entwives.html)
 - **Tom Bombadil.** Tolkien describes him in Letter 144 as a deliberate enigma. His neighbors can have names for him and remember his songs. Two travelers could disagree about who sang them safely home and still remember the same verse. [Letter 144, to Naomi Mitchison](https://time.com/wp-content/uploads/2014/12/the_letters_of_j.rrtolkien.pdf)
 
@@ -514,9 +544,9 @@ An orchard can bear witness to its gardener long after her name is lost. On the 
 
 **Will and responsibility.** There is firmer evidence that Orcs can make choices. In one Second Age note, eastern Orcs laugh at Sauron while he wears his fair form. Their contempt establishes that he has to win or force their obedience. It says little about how they treat anyone in their own power. In a late essay Tolkien describes Orcs as possessing “independent wills” and says the Wise taught that an Orc who surrendered and asked for mercy should receive it, even at a cost. In draft Letter 153 he draws back from calling Orcs irredeemable. He leaves the ultimate fate of an individual Orc open. [*The Nature of Middle-earth*, “Note on the Delay of Gil-galad and the Númenóreans”](https://tolkiengateway.net/wiki/Eastern_Orcs), [*Morgoth’s Ring*, “Myths Transformed,” text X](https://tolkiendiscussion.blogspot.com/2011/04/origins-of-orcs-reading-material.html), and [Letter 153, draft to Peter Hastings](https://static1.squarespace.com/static/59d68c02c534a5079b390c38/t/5c2d3e3f575d1f37b45d4750/1546468936692/the_letters_of_j.rrtolkien.pdf)
 
-The nature of an Orc’s spirit and the reach of a master’s will belong to each campaign. The [register of choices](#register-of-campaign-choices) records the reading used in the examples. The two rulings and their consequences appear together under [Freedom under a master](#freedom-under-a-master).
+The nature of an Orc’s spirit and the reach of a master’s will belong to each campaign. The [register of choices](#register-of-campaign-choices) records the reading used in the examples. Two illustrative rulings and their consequences appear together under [Freedom under a master](#freedom-under-a-master).
 
-#### 23. What the peoples of the two Ages could make
+#### 26. What the peoples of the two Ages could make
 
 A keeper with a seeing-stone can send news across a kingdom while the town below her tower still sends a rider. The masons who raised her tower can mend a stair or replace its door. If the stone is lost, no one in their town can make another.
 
@@ -528,13 +558,13 @@ In Menegroth the work of Dwarven hands served a Sindarin king. At the West-gate 
 
 ##### When magic changes what can be built
 
-Lúthien could unbind the tower on Tol Sirion because Huan had brought Sauron to terms and she had secured mastery of the place. At Orthanc in a later Age, the Ents could tear away the works around the tower and still fail to crack its piers. The history of a work tells its besiegers more than its appearance does.
+A besieger at Tol-in-Gaurhoth needed mastery of the tower. The Ents at Orthanc had the strength to dismantle Isengard and still faced four unbroken piers. For the evidence about both works and what endured, see [The great structures](#the-great-structures).
 
-**The Stone of Erech.** A great black globe lies half buried on the hill. The keepers of the lore of Westernesse say that Isildur brought it from Númenor. Here the King of the Mountains swore allegiance to him. Whether the globe is of the same stone as Orthanc remains unknown. [“The Passing of the Grey Company”](https://bookwise.io/j-r-r-tolkien/the-lord-of-the-rings-volume-3) · [Chapter 19 on the oath at Erech](#oaths-curses-and-the-paths-of-the-dead)
+**The Stone of Erech.** A great black globe lies half buried on the hill. The keepers of the lore of Westernesse say that Isildur brought it from Númenor. Here the King of the Mountains swore allegiance to him. Whether the globe is of the same stone as Orthanc remains unknown. [“The Passing of the Grey Company”](https://bookwise.io/j-r-r-tolkien/the-lord-of-the-rings-volume-3) · [Chapter 22 on the oath at Erech](#oaths-curses-and-the-paths-of-the-dead)
 
 **Galvorn and the black blades of the First Age.** Eöl learned metalwork among the Dwarves and devised galvorn, a shining black metal he could work thin enough to wear while it still turned blades and darts. He also forged Anglachel and Anguirel from the iron of a fallen star. The published *Silmarillion* leaves the relationship between the sword metal and galvorn open. It gives no link between galvorn and Númenórean masonry. [“Of Maeglin”](https://martijn.coppoolse.com/books/part/1223/of-maeglin) · [“Of Túrin Turambar”](https://martijn.coppoolse.com/books/part/1228)
 
-Angrist, the knife Beren used to cut a Silmaril from Morgoth’s crown, was Telchar’s work. In an earlier telling the blade gleams pale, and the smiths of Nogrod sing enchantments as they forge its steel. [“Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) · [*The Lay of Leithian*, lines 3054–3060](https://www.silmarillionwritersguild.org/node/5499)
+Telchar made Angrist, the knife Beren used to cut a Silmaril from Morgoth’s crown. An earlier telling describes its steel as pale. For the song the smiths sang over it, see [The smith’s song in Chapter 22](#the-smiths-song). [“Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) · [*The Lay of Leithian*, lines 3054–3060](https://www.silmarillionwritersguild.org/node/5499)
 
 **A vault in Khazad-dûm.** At the end of a shift, a master and apprentice sing from the two faces of a new vault. Tonight the returning phrase breaks where the roof sounded clear yesterday. The master orders another shore. By morning the apprentice can hear the break herself and point to the course that moved. [The smith’s song](#the-smiths-song)
 
@@ -542,13 +572,13 @@ Angrist, the knife Beren used to cut a Silmaril from Morgoth’s crown, was Telc
 
 ### Adversaries
 
-#### 24. The forces of darkness
+#### 27. The forces of darkness
 
 At Sauron’s tower a wounded wolf escapes Huan, reaches his master, and lives long enough to tell him who is on the bridge. Draugluin’s last words change what Sauron does next. An encounter with one of the Enemy’s servants can turn on what it knows, whom it answers to, and whether it gets home. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226)
 
 ##### Orcs and their captains
 
-First Age Orcs serve in Morgoth’s armies, hunt fugitives, and obey such orders as taking Húrin alive. In a Second Age note, eastern Orcs initially scorn Sauron in his fair form. A captain's authority therefore depends on the place, the year, and the people who will enforce an order. An Orc told to bring a traveler back alive has reason to stay at the crossing after the rest of the patrol has gone. [“Of the Fifth Battle”](https://martijn.coppoolse.com/books/part/1227) · [Chapter 22 on Orcs and free will](#orcs-spirit-and-free-will)
+First Age Orcs serve in Morgoth’s armies, hunt fugitives, and obey such orders as taking Húrin alive. In a Second Age note, eastern Orcs initially scorn Sauron in his fair form. A captain's authority therefore depends on the place, the year, and the people who will enforce an order. An Orc told to bring a traveler back alive has reason to stay at the crossing after the rest of the patrol has gone. [“Of the Fifth Battle”](https://martijn.coppoolse.com/books/part/1227) · [Chapter 25 on Orcs and free will](#orcs-spirit-and-free-will)
 
 ##### Trolls and giants
 
@@ -573,7 +603,7 @@ Tolkien gives Sauron’s **werewolves** an unusually specific origin in the tale
 **A dream and a deceiver.** Gorlim comes to warn Beren in a dream after his death. Earlier, Sauron had deceived Gorlim with an image of his wife. The man who once betrayed his friends spends his last words trying to save one. [“Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226)
 **Tyrn Gorthad.** Some of its mounds were raised by the ancestors of the Edain in the First Age. The spirits from Angmar and Rhudaur came to occupy deserted mounds around the Great Plague of T.A. 1636. A family in the Second Age could still have known whose bones lay under a stone. [Appendix A, “The North-kingdom and the Dúnedain”](https://theallfreenovel.com/130/29/the_return_of_the_king.amp)
 **The Nine.** The mortal bearers fell under Sauron’s dominion at different rates. The Nazgûl first appear around S.A. 2251. For years after a gift changed hands, a bearer might still answer to a familiar name and sit among people who remembered him receiving it. [The fate of the Nine](https://martijn.coppoolse.com/books/paragraph/56341) · [Appendix B](https://theallfreenovel.com/130/33/the_return_of_the_king.amp)
-**The Dead of the White Mountains.** A broken oath and Isildur’s curse bind the Dead to these mountains in the late Second Age. The obligation endures until Isildur’s heir calls for the promised service. [Chapter 19 on oaths and the Paths of the Dead](#oaths-curses-and-the-paths-of-the-dead)
+**The Dead of the White Mountains.** A broken oath and Isildur’s curse bind the Dead to these mountains in the late Second Age. The obligation endures until Isildur’s heir calls for the promised service. [Chapter 22 on oaths and the Paths of the Dead](#oaths-curses-and-the-paths-of-the-dead)
 
 ##### The winged beasts of the Nazgûl
 
@@ -581,7 +611,7 @@ At the Pelennor the narrator wonders whether the Witch-king’s mount descends f
 
 ### Adventure ideas
 
-#### 25. The Bell at the Crossing
+#### 28. The Bell at the Crossing
 
 *First Age adventure*
 
@@ -591,7 +621,7 @@ Refugees reach a guarded crossing after the Siege of Angband breaks. A Dwarf who
 
 ![A Dwarven smith tests the sound of the warning bell.](../art/sketch-the-warning-bell.png)
 
-#### 26. A Gift at the Watergate
+#### 29. A Gift at the Watergate
 
 *Second Age adventure*
 
@@ -641,7 +671,7 @@ At a ferry below Tol-in-Gaurhoth a wounded wolf reaches the landing ahead of the
 
 ### Guidance for the gamemaster
 
-#### 27. Running a heroic age
+#### 30. Running a heroic age
 
 ##### Living memory
 
@@ -661,11 +691,11 @@ For a settlement, establish what the inhabitants can make, what must come by roa
 
 ##### Freedom under a master
 
-Decide how far a master can compel an Orc and what follows when his hold breaks. In the examples here, each Orc has an independent spirit. Fear can make refusal ruinously costly while leaving refusal possible. Another reading allows direct domination to suspend choice while the master holds the victim. Under either ruling, distinguish an order issued at a distance from an immediate exertion of the master’s will. Decide separately what people believe about Orcish descent. An Elf who remembers the disappearances at Cuiviénen and a scholar who reckons from the awakening of Men can give conflicting accounts in good faith.
+In the ford encounter below, the guide has an independent spirit. Fear can make refusal ruinously costly while leaving it possible. Another GM might allow direct domination to suspend choice while the master holds the victim. Under either ruling, a captain shouting from the far bank has to reckon with what the guide can do before anyone reaches her. For Tolkien’s accounts of Orc origins and wills, see [Orcs, spirit, and free will in Chapter 25](#orcs-spirit-and-free-will).
 
 In [the guide at the ford](#promises-on-the-road), establish what the guide values, what her captain knows, and why her brother came with him. Under the first ruling she can defy the captain, bargain, or obey from fear. Under the second, establish whether any power capable of taking her choice away is actually present. Give the player enough evidence to distinguish threats from compulsion. If someone offers her sanctuary, the answer belongs to this Orc under these circumstances.
 
-#### 28. Witnesses, danger, and consequence
+#### 31. Witnesses, danger, and consequence
 
 ##### Preparing a discovery
 
@@ -681,9 +711,9 @@ For an oath, write the words that both parties heard, the service owed, who may 
 
 ##### Ruling on a work of power
 
-Establish where the gift resides, what the worker actually does, and what changes for those present. A password can pass from one listener to another. A disguise can fail while the travelers’ names remain secret. A recognizably kindled fire may betray the company’s position. If the effect reaches another mind, distinguish an image that can deceive, terror that might make someone flee, and a command that takes away the ability to refuse. For a petition, leave the answer with the being addressed. An unanswered prayer can still have witnesses and consequences.
+Establish where the gift resides, what the worker actually does, and what changes for those present. A password can pass from one listener to another. A disguise can fail while the travelers’ names remain secret. A recognizably kindled fire may betray the company’s position. If the effect reaches another mind, distinguish an image that can deceive, terror that might make someone flee, and a command that takes away the ability to refuse. For a petition, leave the answer with the being addressed. An unanswered prayer can still have witnesses and consequences. [Chapter 22 on the sources and workings of magic](#22-the-kinds-of-magic-in-middle-earth)
 
-A mortal lord may welcome the first thing a Ring makes possible. Establish what he can still refuse at each meeting and who can witness that refusal. Among the Dwarves the Seven leave the power of refusal intact, even when the bearer’s growing hunger costs him his friends. For Morgoth’s captives, decide who controls their movements and their news. A prisoner may obey an order to work and still protect the whereabouts of someone the Enemy is hunting.
+A mortal lord may welcome the first thing a Ring makes possible. Establish what he can still refuse at each meeting and who can witness that refusal. For a captive, decide who controls his movements and his news. He may obey an order to work and still protect the whereabouts of someone the Enemy is hunting. [Chapter 24 on the reach of a master’s will](#the-dominion-of-morgoth-and-sauron)
 
 At Nargothrond the decisive lie concerns something a witness can answer. Where were Morwen and Niënor when the city fell? For an encounter in this vein, give the speaker one accusation the traveler knows to be true and one claim someone elsewhere could disprove. Establish how far the captives can travel while the protagonist seeks that witness. When the gaze lifts, the player still has to decide whom to believe and which road to take. [Túrin, Glaurung, and the curse on Húrin’s house](#túrin-glaurung-and-the-curse-on-húrins-house)
 
@@ -813,13 +843,13 @@ Record who saw the deed, where they go next, and how soon the news can travel. A
 
 ### Reading by encounter
 
-**Fingolfin before Angband.** Read “Of the Ruin of Beleriand and the Fall of Fingolfin” in *The Silmarillion* alongside Chapter 18. Look for what the duel costs each combatant.
+**Fingolfin before Angband.** Read “Of the Ruin of Beleriand and the Fall of Fingolfin” in *The Silmarillion* alongside Chapter 21. Look for what the duel costs each combatant.
 
-**Annatar at the forge.** Read “Of the Rings of Power and the Third Age” alongside “The History of Galadriel and Celeborn” in *Unfinished Tales*. Chapter 17 uses their different accounts to suggest what each witness could reasonably suspect.
+**Annatar at the forge.** Read “Of the Rings of Power and the Third Age” alongside “The History of Galadriel and Celeborn” in *Unfinished Tales*. Chapter 20 uses their different accounts to suggest what each witness could reasonably suspect.
 
-**Lúthien in Angband.** Read “Of Beren and Lúthien” alongside Chapter 19. Follow the singing, the cloak, the crown, and Beren’s knife in their order. Each makes the next deed possible.
+**Lúthien in Angband.** Read “Of Beren and Lúthien” alongside Chapter 22. Follow the singing, the cloak, the crown, and Beren’s knife in their order. Each makes the next deed possible.
 
-**The material of Angrist.** Read “Of Beren and Lúthien” alongside the passage on the blade’s forging in *The Lay of Leithian*. Chapter 23 distinguishes Telchar’s work from the black metal associated with Eöl.
+**The material of Angrist.** Read “Of Beren and Lúthien” alongside the passage on the blade’s forging in *The Lay of Leithian*. Chapter 26 distinguishes Telchar’s work from the black metal associated with Eöl.
 
 ## Register of campaign choices
 
@@ -829,9 +859,9 @@ Record who saw the deed, where they go next, and how soon the news can travel. A
 
 **Celeborn and the wedding.** Celeborn is a Sindarin prince of Doriath and a kinsman of Thingol. He and Galadriel meet and marry there during the Long Peace. “Of the Ruin of Doriath” treats them as married in the time of Dior, while Appendix B puts them together in Lindon early in the Second Age. A late account in *Unfinished Tales* makes Celeborn a Telerin prince of Aman. This book follows the Doriath tradition. No wedding year is given. Dating the marriage to the Long Peace places both spouses at Menegroth before the northern wars reach them. [The Silmarillion, “Of the Ruin of Doriath”](https://ebookscape.com/middle-earth/the-silmarillion-j-r-r-tolkien/) · [The Lord of the Rings, Appendix B](https://theallfreenovel.com/130/33/the_return_of_the_king.amp)
 
-**Doriath, the Falas, and Greenwood.** The Girdle and Círdan’s havens give Sindarin households distinct histories. Oropher joins an established Silvan people. Appendix F calls most Elves of Mirkwood and Lórien East-elves. *Unfinished Tales* traces Silvan descent to the Teleri. Chapter 15 follows “Quendi and Eldar” in including Avarin families alongside their Nandorin kin. [Appendix F](https://arda.ir/wp-content/downloads/lord-of-the-rings/LOTR%204%20-%20Appendices%20And%20Index.pdf) · [*Unfinished Tales*](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/) · [The peoples of Middle-earth](#the-peoples-of-middle-earth)
+**Doriath, the Falas, and Greenwood.** The Girdle and Círdan’s havens give Sindarin households distinct histories. Oropher joins an established Silvan people. Appendix F calls most Elves of Mirkwood and Lórien East-elves. *Unfinished Tales* traces Silvan descent to the Teleri. The Elven kindred chart follows “Quendi and Eldar” in including western Avarin families alongside their Nandorin kin. [Appendix F](https://arda.ir/wp-content/downloads/lord-of-the-rings/LOTR%204%20-%20Appendices%20And%20Index.pdf) · [*Unfinished Tales*](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/) · [The sundering and the Wood-elves](#the-sundering-and-the-wood-elves)
 
-**Annatar and Celebrimbor.** Annatar’s skill is genuine. His authority to teach on the Valar’s behalf is what his hosts cannot verify. Celebrimbor wants to rival Fëanor and lets that desire excuse another day’s delay in acting on a warning. His private conversation with Galadriel is original to this book. It lets players witness both the reason for suspicion and the friendship that makes it painful. [Unfinished Tales, “The History of Galadriel and Celeborn,” including note 7](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+**Annatar and Celebrimbor.** The campaign gives Celebrimbor a private conversation in which he acknowledges the grounds for Galadriel’s doubts. His wish to rival Fëanor helps explain why he still welcomes Annatar. [The meeting in Chapter 20](#20-the-seen-and-the-unseen) · [*Unfinished Tales*, “The History of Galadriel and Celeborn,” note 7](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
 **Eastern and southern homelands.** The Lower River, Copper Hills, Meeting Pastures, Fig Vale, and Three Estuaries are original local settings. So are the harbor obligations at Umbar and the succession custom in the winter pass of Khand. Each gives local characters patrons, loyalties, and disputes of their own before a western fleet or Sauron’s emissary arrives. The geographic and historical anchors appear in Chapter 14.
 
@@ -841,10 +871,10 @@ Record who saw the deed, where they go next, and how soon the news can travel. A
 
 **Magic in daily life.** Learned songs, household protections, healing, and enchanted craft are more readily encountered in these earlier Ages. A particular maker’s gift can be much rarer. The Dwarves’ account of forge-spells in “An Unexpected Party” and the smiths of Nogrod in *The Lay of Leithian* guide this choice. At the Bruinen the campaign treats Vilya as strengthening Elrond’s defense, while the text leaves its contribution to that flood unmeasured. [The Lay of Leithian, forging Angrist](https://www.silmarillionwritersguild.org/node/5499) · [Letter 131](https://ldysinger.com/%40texts2/1938_jrr_tolkien/06_on_LOTR_letter_131.htm)
 
-**Original adventures.** The damaged crossing, its warning bell, and the captain’s mistaken suspicion belong to the First Age adventure. The paired flood signals, the ferrymaster’s discovery, and the toll collector belong to the Second Age adventure. Both give the player evidence that exists before anyone explains it. The smith who can give her hearing to a bell illustrates a separate, voluntary sacrifice.
+**Original adventures.** The damaged crossing and the paired flood signals are original incidents. In each, the player can uncover evidence that the local authorities have overlooked. [The Bell at the Crossing](#28-the-bell-at-the-crossing) · [A Gift at the Watergate](#29-a-gift-at-the-watergate)
 
 **The GM’s authority over Orcs.** The book assigns the nature of an Orc’s spirit and the reach of its freedom to each GM. The examples use a reading in which an Orc has an independent spirit and can choose mercy or fidelity even under threat. [Freedom under a master](#freedom-under-a-master) gives another reading and its consequences at the ford. Tolkien’s changing accounts of origins and his treatment of surrender are the reasons to distinguish ancestry, obedience, and individual conduct. [Morgoth’s Ring, “Myths Transformed,” VIII–X](https://tolkiendiscussion.blogspot.com/2011/04/origins-of-orcs-reading-material.html) · [Letter 153](https://time.com/wp-content/uploads/2014/12/the_letters_of_j.rrtolkien.pdf)
 
-**The protagonist’s choices.** One traveler can alter the outcome of an encounter. Allies add abilities and obligations. Enemy strength follows the place and date. A player may serve different allegiances, interpret the evidence, refuse a gift, or abandon a hopeless fight. Chapters 27 and 28 use consequences and witnesses to carry those choices forward.
+**The protagonist’s choices.** One traveler can alter the outcome of an encounter. Allies add abilities and obligations. Enemy strength follows the place and date. A player may serve different allegiances, interpret the evidence, refuse a gift, or abandon a hopeless fight. Chapters 30 and 31 use consequences and witnesses to carry those choices forward.
 
 **The paintings.** The cover places Melkor’s judgment in the Halls of Mandos so that Vairë’s tapestries bear witness. The published account places the hearing in the Ring of Doom and the captivity in Mandos. The Ancalagon plate gives the dragon a tumbling posture and a span sufficient to break all three peaks. Tolkien establishes the destruction and supplies no dimensions. The Gondolin painting follows Ecthelion’s last charge from the early tale. Its plain, rounded helm is an artistic choice. In Angband the iron claws holding the Silmarils come from the text. The open points of the crown are the painting’s interpretation. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) · [“Of the Voyage of Eärendil and the War of Wrath”](https://martijn.coppoolse.com/books/part/1231) · [*The Fall of Gondolin*, “The Original Tale”](https://www.ebookscape.com/middle-earth/the-fall-of-gondolin-j-r-r-tolkien/)

@@ -55,14 +55,14 @@ blocks=re.split(r'\n\s*\n',raw.strip())
 headings=[b.lstrip('# ') for b in blocks if b.startswith('#')]
 dest={slug(t):f'sec{n:03}' for n,t in enumerate(headings)}
 name='Middle-earth in the First and Second Ages'
-def inline(s):
+def inline(s, link_color=linkcolor):
     bits=[]
     for token in re.split(r'(\[[^\]]+\]\([^\s]*?\)(?=[\s.,);·!?]|$))',s):
         m=re.fullmatch(r'\[([^\]]+)\]\((.*)\)',token)
         if m:
             label,uri=m.groups()
             if uri.startswith('#'): uri='#'+dest[uri[1:]]
-            bits.append('<link color="'+linkcolor+'" href='+quoteattr(uri)+'>'+emphasis(label)+'</link>')
+            bits.append('<link color="'+link_color+'" href='+quoteattr(uri)+'>'+emphasis(label)+'</link>')
         else:
             bits.append(emphasis(token))
     return ''.join(bits)
@@ -88,7 +88,7 @@ def drawCover(c,d):
     c.drawString(M,H-82,'A CAMPAIGN SOURCEBOOK')
     c.setFillColor(color('#fcf8ed'));c.setFont('Display',47)
     c.drawString(M,H-149,'Middle-earth in the');c.drawString(M,H-202,'First and Second Ages')
-    cover_note=Paragraph(inline(blocks[1]),style('Cover note','Text',12,16,textColor=color('#e7daca')))
+    cover_note=Paragraph(inline(blocks[1], '#fcf8ed'),style('Cover note','Text',12,16,textColor=color('#e7daca')))
     _,note_height=cover_note.wrap(W-2*M,115)
     cover_note.drawOn(c,M,H-224-note_height)
     with PILImage.open(coverjpg) as im: iw,ih=im.size
@@ -258,7 +258,7 @@ def flow(pages):
                 number,title=t.split('. ',1)
                 current=int(number)
                 nsub=0
-                if t=='28. Witnesses, danger, and consequence':
+                if title=='Witnesses, danger, and consequence':
                     a.append(PageBreak())
                 level=3 if section=='History' else 2
                 a.extend([CondPageBreak(95),rules(),heading(t,chapter,level,number+'.0 '+title.upper())])
@@ -276,7 +276,7 @@ def flow(pages):
             else:
                 nsub+=1
                 label=f'{current}.{nsub}  {t}' if current else t
-                level=3 if root_section.startswith('Part Two') or section=='Adventure ideas' or current in (15,18,21) else None
+                level=3 if root_section.startswith('Part Two') or section=='Adventure ideas' or current in (15,17,21,24) else None
                 if t in ('A place and its keepers','Ruling on a work of power'):
                     a.append(FrameBreak())
                 a.append(heading(t,sub,level,label))
