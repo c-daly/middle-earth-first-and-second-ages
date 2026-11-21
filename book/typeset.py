@@ -288,8 +288,11 @@ def flow(pages):
             with PILImage.open(f) as im: w,h=im.size
             drawW=min(width,130*w/h) if filename.startswith('sketch') else width
             pic=Image(f,width=drawW,height=drawW*h/w);pic.hAlign='CENTER'
-            if 'ecthelion' in filename:a.append(KeepTogether([pic,Paragraph(inline(blocks[ix]),cap)]));ix+=1
-            else:a.extend([pic,Spacer(1,5)])
+            if ix < len(blocks) and re.match(r'^\*[^*]+\*(?:\s|$)',blocks[ix]):
+                a.append(KeepTogether([pic,Paragraph(inline(blocks[ix]),cap)]))
+                ix+=1
+            else:
+                a.extend([pic,Spacer(1,5)])
             continue
         if b.startswith('|'):
             if root_section=='Reference guide':
