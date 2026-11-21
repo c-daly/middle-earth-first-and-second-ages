@@ -16,6 +16,12 @@ These entries concern places, periods, and rulings for which the book has yet to
 
 **Deferred.** Permanent towns, political boundaries, population density, and the destinations of particular returnees. A known migration supports occupied country and long stretches of wilderness. It gives no warrant for a continuous chain of market towns.
 
+## Avarin settlements in the East
+
+The Vale of Anduin has a surviving local name, *penni*. Tolkien gives five other Avarin forms of *Quendi* without comparable directions for mapping their homelands. An independent Avarin settlement in Rhûn in either Age remains a campaign possibility. Its site, language, and dealings with local Men still need a history. [Chapter 15 on the Avari and the Wood-elves](middle-earth-in-the-first-and-second-ages.md#the-peoples-of-middle-earth)
+
+**A possibility for later.** Some Avari remained at Cuiviénen into the time of the first sunrise. A family might have stayed in that part of the ancient East for generations while the water withdrew, eventually making a life in dry country. An elder might remember fishing from a ledge now high above a well. A desert in the later basin is a campaign idea. Tolkien locates the old bay on the Sea of Helcar and leaves its position on later maps uncertain. [*The Silmarillion*, “Of the Sun and Moon”](https://martijn.coppoolse.com/books/part/1218) · [“Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf)
+
 ## Oropher’s journey
 
 **Evidence.** “The Sindarin Princes of the Silvan Elves” places an established Silvan people in Greenwood. Oropher and his few Sindarin companions adopted their speech and naming customs. Eriador, west of the Misty Mountains, and the destination in Greenwood, east of them, require separate histories. [Unfinished Tales, Part Two, IV, Appendix B](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)

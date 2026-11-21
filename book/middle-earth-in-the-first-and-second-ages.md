@@ -105,7 +105,7 @@ In those early days Aulë, eager for pupils to whom he could teach his crafts, f
 
 Varda set new, brighter stars in the sky. Beside Cuiviénen, a lake in the east of Middle-earth, the Elves opened their eyes and saw those stars first. Some had already vanished in the darkness before Oromë found their people. For their protection the Valar went to war. At Utumno, Tulkas wrestled Melkor down. Bound with **Angainor**, the chain Aulë had forged, Melkor was brought blindfolded before Manwë in the Ring of Doom and sentenced to captivity in Mandos. [“Of the Coming of the Elves and the Captivity of Melkor”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf)
 
-The Valar invited the Elves to live with them in Valinor. Some chose to remain by the waters where they had awakened. Of the three peoples who set out, the Vanyar and the Noldor first crossed the Blue Mountains into **Beleriand**, the westernmost lands of Middle-earth. The Teleri followed. They were living east of the River Gelion when the sea-lord Ulmo ferried the Vanyar and Noldor west on an island. Many Teleri crossed later with Olwë. Others stayed to search for his missing brother Elwë, or for love of Beleriand’s shores. Elwë had met Melian of the Maiar in a wood. He would rule beside her as King Thingol. [“Of Thingol and Melian” and “Of Eldamar”](https://ebookscape.com/middle-earth/the-silmarillion-j-r-r-tolkien/)
+The Valar invited the Elves to live with them in Valinor. Many of Finwë’s and Elwë’s kin chose a life in Middle-earth and declined to join the march. These were the Avari. Among those who set out with Oromë, the Vanyar and the Noldor first crossed the Blue Mountains into **Beleriand**, the westernmost lands of Middle-earth. The Teleri had already divided beside the Anduin, where Lenwë turned south with his followers. Those who came on to Beleriand faced another parting. Many crossed the Sea with Olwë. Others stayed to search for his missing brother Elwë, or for love of Beleriand’s shores. Elwë had met Melian of the Maiar in a wood. He would rule beside her as King Thingol. [*The Silmarillion*, “Of the Coming of the Elves,” “Of Thingol and Melian,” and “Of Eldamar”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf)
 
 The **Teleri** were the third and largest kindred on the Great Journey. Among their descendants, the **Falmari** sailed west with Olwë. At Alqualondë on the shores of Aman they built their swan-ships. His brother Elwë, called Thingol, remained in Beleriand. The **Sindar**, or Grey-elves, included the mariners of Círdan’s Falas, the people of Mithrim, and the people of Thingol and Melian in Doriath. The **Green-elves** of Ossiriand were another people of Telerin descent. Their Nandorin forebears had broken away earlier on the Journey. [The Silmarillion, Index of Names, under Falmari, Falathrim, Nandor, and Sindar](https://martijn.coppoolse.com/books/part/1237)
 
@@ -267,28 +267,39 @@ An Elf can teach for centuries and still feel the slow fading of her embodied li
 
 A mariner from Alqualondë and a marchwarden of Doriath can both claim Telerin kin. One grew up among the swan-ships in Aman. The other knows the ways through Melian’s Girdle. A family tree explains their kinship. It takes a history to explain why their lives are so different. The three trees below follow selected peoples through the Ages. Some branches mark a migration or an alliance. The account below identifies where those histories cross.
 
-**Elves.** At Cuiviénen the decisive question was whether to follow Oromë west. The Eldar undertook the Great Journey. The Avari declined. An older account of clan descent uses another set of names. The Minyar went west as the Vanyar. Among the Tatyar and Nelyar, some stayed and some set out. Their westbound hosts became the Noldor and the Teleri respectively. An Avar could therefore have kin among the Eldar who departed. [*The Silmarillion*, “Of the Coming of the Elves” and “The Sundering of the Elves”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf) · [*The War of the Jewels*, “Quendi and Eldar,” section C](https://groups.google.com/g/alt.fan.tolkien/c/nhD0kM1e2HM)
+**Elves.** The first three clans were already kin when Oromë invited them west. The **Eldar** undertook the Great Journey. The **Avari** declined it. In one reckoning Tolkien attributes to Noldorin historians, for every 74 of the Nelyar, the third clan, about 28 refused the summons. Of the 46 who set out as Teleri, 26 remained in Middle-earth as Sindar and Nandor. Only 20 crossed the Sea. The figures express proportions across a people already many generations old. [*The War of the Jewels*, “Quendi and Eldar,” section C, on the three clans](https://groups.google.com/g/rec.arts.books.tolkien/c/nHSSFIIMJE4)
+
+The tree follows the clans through the Great Journey. Beside each people it gives the old names used in Aman for those who saw the light of the Two Trees (**Calaquendi**) and those who never saw it (**Moriquendi**). The latter name takes in both the Avari and the **Úmanyar**, the Eldar whose journey ended in Middle-earth. [*The Silmarillion*, “Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf)
 
 ```text
 Elves (Quendi)
-├─ Avari · declined the summons
-└─ Eldar · took the westward road
-   ├─ Vanyar
-   ├─ Noldor
-   └─ Teleri
-      ├─ Falmari · crossed the Sea
-      ├─ Sindar · remained in Beleriand
-      │  ├─ Falathrim of the havens
-      │  ├─ the people of Doriath
-      │  └─ the Grey-elves of Mithrim
-      └─ Nandor · turned aside earlier
-         ├─ Green-elves of Ossiriand
-         └─ kin of the Silvan Elves
+├─ Minyar
+│  └─ Vanyar · Eldar · Calaquendi
+├─ Tatyar
+│  ├─ Avari of this clan · Moriquendi
+│  └─ Noldor · Eldar · Calaquendi
+└─ Nelyar (Lindar)
+   ├─ Avari of this clan · Moriquendi
+   │  └─ western kin among the Wood-elves
+   └─ Teleri · Eldar
+      ├─ Falmari · Calaquendi
+      └─ Úmanyar · remained in Middle-earth
+         ├─ Nandor · Moriquendi
+         │  ├─ Green-elves of Ossiriand
+         │  └─ Nandorin kin of the Wood-elves
+         └─ Sindar · Moriquendi save Thingol
+            ├─ Falathrim of the havens
+            ├─ the people of Doriath
+            └─ the Grey-elves of Mithrim
 ```
 
 Olwë’s Falmari reached Aman. Círdan’s Falathrim also loved the sea and built ships, yet they belonged to the Sindar. Within Doriath the Girdle sheltered a court and woodland communities that developed apart from the coastal havens. The Nandor had left the march farther east. Denethor led some of their people into Ossiriand. Others belonged to the woodland history from which the Silvan peoples emerged. When Oropher came to Greenwood, a small Sindarin company joined a much larger Silvan population. Thranduil inherited his father’s kingship among people whose forebears already knew the forest. [*The Silmarillion*, index entries for Falmari, Falathrim, Sindar, and Nandor](https://martijn.coppoolse.com/books/part/1237) · [*Unfinished Tales*, “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
-*Calaquendi* describes a different experience. The name belongs to those who had seen the light of the Trees. Thingol had visited Aman as an ambassador before the march. He counted among the Elves of the Light and was king of the Sindar. His subjects in Doriath could know Melian personally without ever having seen the Trees themselves. [*The Silmarillion*, “Of Thingol and Melian”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf)
+Thingol had seen the Trees as an ambassador before the march. He was one of the Calaquendi and king of the Sindar. His subjects in Doriath could know Melian personally without ever having seen the Trees themselves. Words also changed when the peoples met again. The Noldorin exiles generally ceased to count the Sindar among the Moriquendi in speech. When Caranthir calls Thingol a Dark Elf, his choice of words is an insult. [*The Silmarillion*, “Of Thingol and Melian”](https://s3.us-west-1.wasabisys.com/luminist/EB/T/Tolkein%20-%20The%20Silmarillion.pdf) · [Index of Names, “Dark Elves”](https://martijn.coppoolse.com/books/part/1237)
+
+**Where the Avari went.** Cuiviénen lay far to the east and somewhat north, on a bay of the inland Sea of Helcar. Some Avari were still living beside those waters when the Valar made the Sun and Moon. What became of that shore as the land and waters changed is uncertain. Other Avari had histories far from the lake. Small parties entered Beleriand from the south. Some of the first whom the Eldar met there claimed descent from the Tatyar. Bëor’s people also remembered learning words and music from Dark Elves east of the Blue Mountains. Their account leaves those teachers’ particular kindred unnamed. [*The Silmarillion*, “Of the Coming of the Elves”](https://images.pcmac.org/SiSFiles/Schools/AL/HooverCity/SpainParkHigh/Uploads/DocumentsCategories/Documents/The%20Coming%20of%20Elves%20and%20captivity%20of%20Melkor.pdf) · [“Of the Sun and Moon”](https://martijn.coppoolse.com/books/part/1218) · [“Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224) · [*The War of the Jewels*, “Quendi and Eldar,” on Avari in Beleriand](https://forum.tolkiendil.com/thread-1173-post-25122.html)
+
+Tolkien records six forms of the name these Elves gave themselves. They are *kindi*, *cuind*, *hwenti*, *windan*, *kinn-lai* and *penni*, each preserving the ancient word behind *Quendi*. The last can be placed on a map. Wood-elves in the Vale of Anduin used *penni*, and these people welcomed refugees from Beleriand. In Eriador and along Anduin, western Avari of Lindarin descent, Nandor and Sindar came to share settlements. A Silvan household in the Second Age can trace its kin to both sides of the ancient parting. The six names leave the borders and later fortunes of communities farther east largely unknown. [*The War of the Jewels*, “Quendi and Eldar,” on the western Avari](https://forum.tolkiendil.com/thread-1173-post-25122.html) · [Tolkien’s note on the six names and the people of Anduin](https://historyofmiddleearth.weebly.com/home/war-of-the-jewels-quendi-and-eldar)
 
 **Men, the Edain, and the Dúnedain.** In Elvish lore *Atani* can embrace all humankind. In the histories of Beleriand its Sindarin form *Edain* usually identifies the mortal Elf-friends of three houses. The distinction matters. Bëor entered Finrod’s service. Hador received Dor-lómin from Fingolfin. Haleth’s people kept their own leaders in Brethil. Common Men elsewhere had no share in those grants or obligations simply by being human. They had their own rulers, trades, and traditions, including the many peoples of the East and South. [*The Silmarillion*, “Of the Coming of Men into the West”](https://martijn.coppoolse.com/books/part/1224)
 
@@ -818,7 +829,7 @@ Record who saw the deed, where they go next, and how soon the news can travel. A
 
 **Celeborn and the wedding.** Celeborn is a Sindarin prince of Doriath and a kinsman of Thingol. He and Galadriel meet and marry there during the Long Peace. “Of the Ruin of Doriath” treats them as married in the time of Dior, while Appendix B puts them together in Lindon early in the Second Age. A late account in *Unfinished Tales* makes Celeborn a Telerin prince of Aman. This book follows the Doriath tradition. No wedding year is given. Dating the marriage to the Long Peace places both spouses at Menegroth before the northern wars reach them. [The Silmarillion, “Of the Ruin of Doriath”](https://ebookscape.com/middle-earth/the-silmarillion-j-r-r-tolkien/) · [The Lord of the Rings, Appendix B](https://theallfreenovel.com/130/33/the_return_of_the_king.amp)
 
-**Doriath, the Falas, and Greenwood.** Melian’s Girdle shapes the woodland court in Doriath. Círdan’s Sindarin havens retain their own maritime life. The account of Greenwood follows the tradition in which Oropher and a small Sindarin following join a much larger Silvan people. Their language, institutions, and possible player backgrounds therefore have local histories. [The Silmarillion, “Of the Sindar”](https://martijn.coppoolse.com/books/part/1217) · [Unfinished Tales, “The Sindarin Princes of the Silvan Elves”](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
+**Doriath, the Falas, and Greenwood.** The Girdle and Círdan’s havens give Sindarin households distinct histories. Oropher joins an established Silvan people. Appendix F calls most Elves of Mirkwood and Lórien East-elves. *Unfinished Tales* traces Silvan descent to the Teleri. Chapter 15 follows “Quendi and Eldar” in including Avarin families alongside their Nandorin kin. [Appendix F](https://arda.ir/wp-content/downloads/lord-of-the-rings/LOTR%204%20-%20Appendices%20And%20Index.pdf) · [*Unfinished Tales*](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/) · [The peoples of Middle-earth](#the-peoples-of-middle-earth)
 
 **Annatar and Celebrimbor.** Annatar’s skill is genuine. His authority to teach on the Valar’s behalf is what his hosts cannot verify. Celebrimbor wants to rival Fëanor and lets that desire excuse another day’s delay in acting on a warning. His private conversation with Galadriel is original to this book. It lets players witness both the reason for suspicion and the friendship that makes it painful. [Unfinished Tales, “The History of Galadriel and Celeborn,” including note 7](https://ebookscape.com/middle-earth/unfinished-tales-j-r-r-tolkien/)
 
