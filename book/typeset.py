@@ -10,7 +10,7 @@ from PIL import Image as PILImage
 from reportlab.lib.colors import HexColor
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_RIGHT, TA_CENTER, TA_JUSTIFY
-from reportlab.platypus import FrameBreak, HRFlowable
+from reportlab.platypus import FrameBreak, HRFlowable, Preformatted
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (BaseDocTemplate, Frame, PageTemplate, Paragraph, Spacer, Image, Table, TableStyle, PageBreak, NextPageTemplate, CondPageBreak, KeepTogether)
@@ -31,7 +31,7 @@ dim='#444440'
 accent='#302d29'
 linkcolor='#343d40'
 paper='#ffffff'
-for name,file in [('Text','times.ttf'),('TextB','timesbd.ttf'),('TextI','timesi.ttf'),('TextBI','timesbi.ttf'),('UI','GARA.TTF'),('UIB','GARABD.TTF'),('Display','pala.ttf')]:
+for name,file in [('Text','times.ttf'),('TextB','timesbd.ttf'),('TextI','timesi.ttf'),('TextBI','timesbi.ttf'),('UI','GARA.TTF'),('UIB','GARABD.TTF'),('Display','pala.ttf'),('Tree','cour.ttf')]:
     pdfmetrics.registerFont(TTFont(name,Path(os.environ['WINDIR'])/'Fonts'/file))
 pdfmetrics.registerFontFamily('Text',normal='Text',bold='TextB',italic='TextI',boldItalic='TextBI')
 def style(name,font='Text',size=11,lead=15,**kw):
@@ -88,8 +88,9 @@ def drawCover(c,d):
     c.drawString(M,H-82,'A CAMPAIGN SOURCEBOOK')
     c.setFillColor(color('#fcf8ed'));c.setFont('Display',47)
     c.drawString(M,H-149,'Middle-earth in the');c.drawString(M,H-202,'First and Second Ages')
-    c.setFont('TextI',14);c.setFillColor(color('#e7daca'))
-    c.drawString(M,H-240,'Peoples, realms, and powers of the Elder Days')
+    cover_note=Paragraph(inline(blocks[1]),style('Cover note','Text',12,16,textColor=color('#e7daca')))
+    _,note_height=cover_note.wrap(W-2*M,115)
+    cover_note.drawOn(c,M,H-224-note_height)
     with PILImage.open(coverjpg) as im: iw,ih=im.size
     h=W*ih/iw
     c.drawImage(coverjpg,0,96,W,h)
@@ -175,7 +176,7 @@ def contents(pages):
     major = style('Contents parts','UIB',12,14)
     minor = style('Contents sections','UIB',11,13)
     detail = style('Contents detail','TextI',9.2,10.6)
-    front = {'A note from the author','Using this book'}
+    front = {'About this edition','Using this book'}
     part_two = False
     for line in listing:
         match = re.fullmatch(r'( *)- \[([^\]]+)\]\(#[^)]+\)',line)
@@ -216,7 +217,7 @@ def records(block):
     return a
 def flow(pages):
     a=[Spacer(1,1),NextPageTemplate('Body'),PageBreak()]
-    ix=blocks.index('## A note from the author')
+    ix=blocks.index('## About this edition')
     while ix<len(blocks) and blocks[ix]!='## Contents':
         b=blocks[ix]
         ix+=1
@@ -275,10 +276,15 @@ def flow(pages):
             else:
                 nsub+=1
                 label=f'{current}.{nsub}  {t}' if current else t
-                level=3 if root_section.startswith('Part Two') or section=='Adventure ideas' else None
+                level=3 if root_section.startswith('Part Two') or section=='Adventure ideas' or current in (15,18,21) else None
                 if t in ('A place and its keepers','Ruling on a work of power'):
                     a.append(FrameBreak())
                 a.append(heading(t,sub,level,label))
+            continue
+        if b.startswith('```text\n'):
+            lines=b.splitlines()[1:-1]
+            tree_style=style('Kindred tree','Tree',8.9,11.6,spaceBefore=4,spaceAfter=9)
+            a.append(KeepTogether([Preformatted('\n'.join(lines),tree_style)]))
             continue
         if b.startswith('!['):
             filename=b.split('](')[1][:-1].split('/')[-1];f=jpg(filename,1550)
@@ -307,7 +313,8 @@ def flow(pages):
             for l in b.splitlines():a.append(Paragraph(inline(l[2:]),body))
             continue
         if re.fullmatch(r'\*[^*]+\*',b):a.append(Paragraph(inline(b[1:-1]),brief));continue
-        a.append(Paragraph(inline(b),body))
+        prose_style=record if root_section=='Register of campaign choices' else body
+        a.append(Paragraph(inline(b),prose_style))
     return a
 destfile=str(folder/(stem+'.pdf'))
 first=Book(str(work/'pagination.pdf'));first.build(flow({}))
