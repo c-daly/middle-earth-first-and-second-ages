@@ -1,7 +1,5 @@
 # Middle-earth in the First and Second Ages
 
-AI tools helped research, write, edit, illustrate, and typeset this fan-made sourcebook. The author directed that work throughout the book. [About this edition](#about-this-edition)
-
 *A campaign sourcebook*
 
 ![The chaining of Melkor](../art/the-chaining-of-melkor.png)
