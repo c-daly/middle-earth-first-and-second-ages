@@ -78,7 +78,7 @@ def jpg(src,maxsize):
             im.thumbnail((maxsize,maxsize),PILImage.Resampling.LANCZOS)
             im.convert('RGB').save(f,quality=93,optimize=True)
     return str(f)
-coverjpg=jpg('melkor-before-manwe-cover-study-06-mandos.png',2100)
+coverjpg=jpg('the-chaining-of-melkor.png',2100)
 platejpg=jpg('ancalagon-in-free-fall-3840x2160.png',2600)
 def color(s):
     return HexColor(s)

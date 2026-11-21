@@ -4,7 +4,7 @@ AI tools helped research, write, edit, illustrate, and typeset this fan-made sou
 
 *A campaign sourcebook*
 
-![The chaining of Melkor](../art/melkor-before-manwe-cover-study-06-mandos.png)
+![The chaining of Melkor](../art/the-chaining-of-melkor.png)
 
 ## About this edition
 
@@ -175,7 +175,7 @@ In Doriath the decisive losses came from within the history of the Silmaril. Thi
 
 At Gondolin, Maeglin gave Morgoth the secret of the city. When its defenses broke, Ecthelion faced Gothmog at the King’s Fountain. The escape of Tuor, Idril, and their son Eärendil owed much to the way Idril had prepared in secret. Survivors made for the mouths of Sirion, where Elwing had taken refuge. [The Silmarillion, “Of Tuor and the Fall of Gondolin”](https://martijn.coppoolse.com/books/part/1230)
 
-![Ecthelion at the King’s Fountain](../art/ecthelion-at-the-fountain-study-01.png)
+![Ecthelion at the King’s Fountain](../art/ecthelion-at-the-kings-fountain.png)
 
 *Ecthelion at the King’s Fountain.* Wounded and disarmed, Ecthelion casts himself against Gothmog. Both fall into the deep basin. [The Fall of Gondolin, “The Original Tale”](https://www.ebookscape.com/middle-earth/the-fall-of-gondolin-j-r-r-tolkien/)
 
@@ -362,7 +362,9 @@ For this campaign, Celebrimbor sees what he wants to see. In private he admits t
 
 #### 18. Embodiment, wounds, and defeat
 
-Fingolfin wounds Morgoth in single combat. Morgoth wins, yet afterwards he limps. Huan, by contrast, holds Sauron through his changes of shape. When Lúthien demands the mastery of his tower, Sauron yields it and escapes. A wound can outlast the battle. A surrender can give the victor all she came for while the enemy lives to flee. [The Silmarillion, “Of the Ruin of Beleriand”](https://martijn.coppoolse.com/books/part/1225) · [“Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226)
+Long before Fingolfin rides to Angband, Melkor goes to meet Ungoliant in Avathar. There he takes again the tall, terrible shape in which he once ruled Utumno. He keeps it ever after. In his later writings Tolkien connects Morgoth’s bondage to that body with the power he has spent mastering the very substance of Arda. When Fingolfin drives his sword into Morgoth’s foot, he gives the victor a limp that will last for the rest of his reign. [*The Silmarillion*, “Of the Darkening of Valinor”](https://martijn.coppoolse.com/books/part/1215) · [“Of the Ruin of Beleriand and the Fall of Fingolfin”](https://martijn.coppoolse.com/books/paragraph/55775) · [*Morgoth’s Ring*, “Notes on motives in the Silmarillion”](https://fair-use.org/j-r-r-tolkien/notes-on-motives-in-the-silmarillion/)
+
+Sauron can still change his shape when Huan seizes him. He tries form after form and finds the hound’s teeth holding him through every change. Lúthien wants the prisoners in his tower. When Sauron yields mastery of it, she lets him flee. The prisoners walk free and their captor lives to remember who defeated him. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226)
 
 ##### Death and the Gift of Men
 
@@ -415,7 +417,9 @@ The Wargs immediately know who is burning them. The guards who encounter Finrod�
 
 ##### Lúthien sings Morgoth to sleep
 
-![Lúthien raises her cloak as the light of the three Silmarils falls across Morgoth’s scarred face and burned hands.](../art/luthien-in-angband-study-02.png)
+![Lúthien lifts her starry cloak. High on the throne, Morgoth’s head inclines beneath the Iron Crown and its three Silmarils.](../art/luthien-before-morgoth.png)
+
+Two kinds of hurt are visible from the foot of the throne. Morgoth’s hands are still black where he touched the Silmarils, and the burning has never eased. The scar on his face is newer. Thorondor left it there when he came to bear Fingolfin’s body away. Of all he has taken into Angband, it is the three jewels Morgoth insists on carrying, waking or sleeping. [*The Silmarillion*, “Of the Flight of the Noldor”](https://martijn.coppoolse.com/books/paragraph/55537) · [“Of the Ruin of Beleriand and the Fall of Fingolfin”](https://martijn.coppoolse.com/books/paragraph/55775)
 
 In Angband, Morgoth sees through Lúthien's disguise. She gives her name and offers to sing for him. His desire to keep watching gives her time. As she sings, the fires go out and his court sleeps. The Silmarils blaze and his crown weighs his head down. Still singing, she casts her cloak before his eyes and lays a dream on him. Morgoth falls from his throne. Beren has time to cut one Silmaril free. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226)
 
@@ -562,7 +566,7 @@ Refugees reach a guarded crossing after the Siege of Angband breaks. A Dwarf who
 
 **At the crossing.** In this adventure, a shifting support has put the bell frame under strain. A fresh crack at the footing, the changed note under a light hammer, and the last carter’s account of a wheel dropping all point to the same pier. Each can be found independently. The captain will keep sending laden carts across until someone gives him a reason to stop. The player decides whose word to stake against his orders and what to do with those still waiting.
 
-![A Dwarven smith tests the sound of the warning bell.](../art/sketch-warning-bell.png)
+![A Dwarven smith tests the sound of the warning bell.](../art/sketch-the-warning-bell.png)
 
 #### 26. A Gift at the Watergate
 
@@ -818,4 +822,4 @@ Record who saw the deed, where they go next, and how soon the news can travel. A
 
 **The protagonist’s choices.** One traveler can alter the outcome of an encounter. Allies add abilities and obligations. Enemy strength follows the place and date. A player may serve different allegiances, interpret the evidence, refuse a gift, or abandon a hopeless fight. Chapters 27 and 28 use consequences and witnesses to carry those choices forward.
 
-**The paintings.** The cover places Melkor’s judgment in the Halls of Mandos so that Vairë’s tapestries bear witness. The published account places the hearing in the Ring of Doom and the captivity in Mandos. The Ancalagon plate gives the dragon a tumbling posture and a span sufficient to break all three peaks. Tolkien establishes the destruction and supplies no dimensions. Ecthelion’s last leap follows the early Gondolin tale. Lúthien’s cloak and Morgoth’s set crown follow the published account of the Silmaril. [The Silmarillion, “Of the Voyage of Eärendil and the War of Wrath”](https://martijn.coppoolse.com/books/part/1231) · [The Fall of Gondolin, “The Original Tale”](https://www.ebookscape.com/middle-earth/the-fall-of-gondolin-j-r-r-tolkien/)
+**The paintings.** The cover places Melkor’s judgment in the Halls of Mandos so that Vairë’s tapestries bear witness. The published account places the hearing in the Ring of Doom and the captivity in Mandos. The Ancalagon plate gives the dragon a tumbling posture and a span sufficient to break all three peaks. Tolkien establishes the destruction and supplies no dimensions. The Gondolin painting follows Ecthelion’s last charge from the early tale. Its plain, rounded helm is an artistic choice. In Angband the iron claws holding the Silmarils come from the text. The open points of the crown are the painting’s interpretation. [*The Silmarillion*, “Of Beren and Lúthien”](https://martijn.coppoolse.com/books/part/1226) · [“Of the Voyage of Eärendil and the War of Wrath”](https://martijn.coppoolse.com/books/part/1231) · [*The Fall of Gondolin*, “The Original Tale”](https://www.ebookscape.com/middle-earth/the-fall-of-gondolin-j-r-r-tolkien/)
