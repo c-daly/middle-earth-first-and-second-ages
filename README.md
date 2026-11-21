@@ -2,9 +2,7 @@
 
 An illustrated, fan-made tabletop campaign sourcebook for the years of the Siege of Angband, the voyages of Númenor, and the forging of the Rings of Power.
 
-> I wanted to play in the years when the doors of Khazad-dûm still stood open and a traveler could have met the two friends who made them.
-
-That line from the author’s note gives the book its starting point. Narvi and Celebrimbor are still at work. Someone brings them tools, knows when they quarrel, and is among the first to walk through the door when it opens. There is room in that history for one more person.
+Narvi and Celebrimbor are still at work. Someone brings them tools, knows when they quarrel, and is among the first to walk through the door when it opens. There is room in that history for one more person.
 
 ![From Eärendil’s shoulder aboard Vingilot, Ancalagon tumbles toward the three peaks of Thangorodrim.](art/ancalagon-in-free-fall-3840x2160.png)
 
